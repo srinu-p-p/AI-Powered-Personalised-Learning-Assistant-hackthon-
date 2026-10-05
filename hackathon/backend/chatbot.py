@@ -30,5 +30,5 @@ async def chat_with_ai(user_query: UserQuery):
         return {"response": ai_response}
 
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": str(e)}!
     

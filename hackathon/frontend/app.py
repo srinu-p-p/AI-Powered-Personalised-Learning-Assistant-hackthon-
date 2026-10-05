@@ -21,4 +21,4 @@ if st.button("Get Answer"):
         else:
             st.write("Sorry, something went wrong.")
     else:
-        st.write("Please enter a question.")
+        st.write("Please enter a question.")!
